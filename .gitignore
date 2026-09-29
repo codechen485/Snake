@@ -1,0 +1,23 @@
+# CMake / 构建产物
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.obj
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Qt Creator / IDE
+.qtcreator/
+*.user
+.vscode/
+.idea/
+
+# 系统垃圾文件
+Thumbs.db
+.DS_Store
